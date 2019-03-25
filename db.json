@@ -1,7 +1,7 @@
 {
   "orders": [
-    { "id": 1, "title": "Test"},
-    { "id": 2, "title": "You are"},
-    { "id": 3, "title": "What"}
+    { "id": 1, "table_no": 3, "lines": "Test" },
+    { "id": 2, "table_no": 5, "lines": "You are" },
+    { "id": 3, "table_no": 2, "lines": "What" }
   ]
 }
